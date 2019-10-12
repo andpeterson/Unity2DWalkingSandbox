@@ -6,5 +6,6 @@ Here's whats in this project:
 
 Y-Axis based layering:
 ![Alt Text](https://github.com/andpeterson/Unity2DWalkingSandbox/blob/master/Exciting_Gifs/Walking_Around_A_Tree.gif?raw=true)
+
 A compelling designed map:
 ![Alt Text](https://github.com/andpeterson/Unity2DWalkingSandbox/blob/master/Exciting_Gifs/Map_Tour.gif?raw=true)
